@@ -1,0 +1,15 @@
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\bin\Release\net6.0\cppCalculatorOnCS.exe
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\bin\Release\net6.0\cppCalculatorOnCS.deps.json
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\bin\Release\net6.0\cppCalculatorOnCS.runtimeconfig.json
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\bin\Release\net6.0\cppCalculatorOnCS.dll
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\bin\Release\net6.0\cppCalculatorOnCS.pdb
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\obj\Release\net6.0\cppCalculatorOnCS.csproj.AssemblyReference.cache
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\obj\Release\net6.0\cppCalculatorOnCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\obj\Release\net6.0\cppCalculatorOnCS.AssemblyInfoInputs.cache
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\obj\Release\net6.0\cppCalculatorOnCS.AssemblyInfo.cs
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\obj\Release\net6.0\cppCalculatorOnCS.csproj.CoreCompileInputs.cache
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\obj\Release\net6.0\cppCalculatorOnCS.dll
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\obj\Release\net6.0\refint\cppCalculatorOnCS.dll
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\obj\Release\net6.0\cppCalculatorOnCS.pdb
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\obj\Release\net6.0\cppCalculatorOnCS.genruntimeconfig.cache
+D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\obj\Release\net6.0\ref\cppCalculatorOnCS.dll

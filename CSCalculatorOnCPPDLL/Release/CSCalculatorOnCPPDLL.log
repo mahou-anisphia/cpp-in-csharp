@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Calculate.cpp
+  dllmain.cpp
+     Creating library D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\Release\CSCalculatorOnCPPDLL.lib and object D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\Release\CSCalculatorOnCPPDLL.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CSCalculatorOnCPPDLL.vcxproj -> D:\Swinburne\6sem\softDeploy\wix\cppCalculatorOnCS\Release\CSCalculatorOnCPPDLL.dll
